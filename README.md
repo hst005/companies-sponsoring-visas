@@ -41,4 +41,22 @@ I wrote a blog post about [how I moved from India to Europe](https://shubheksha.
 | QuantumBlack | [Global](https://quantumblack.com/careers/current-openings#content) | Data Science <br> Data Engineering <br> Machine Learning Engineering <br> Software Engineering <br> Design <br> Product Management | https://quantumblack.com/careers/ | ✅ |
 | Trivago | Dusseldorf, DE | Software Engineering <br> Media and Marketing <br> Analytics <br> People |https://company.trivago.com/open-positions/ | ✅|
 | Attest | London, UK | Engineering/Design/Product | https://jobs.lever.co/attest | N/A |
-| SquareSpace |  | Engineering/Design/Product |  |
+| SquareSpace |  | Engineering |  |
+| Monzo Bank | UK  | Engineering |  |
+| Palantir | UK  | Engineering |  |
+| Cloudflare | UK  | Engineering |  |
+| Babylon Health | UK  | Engineering |  |
+| Deliveroo | UK  | Engineering |  |
+| DRW | UK  | Engineering |  |
+| Janestreet | UK  | Engineering |  |
+| Go cardless | UK  | Engineering |  |
+| TransferWise | UK  | Engineering |  |
+| Plaid  | UK  | Engineering |  |
+|  Databricks | Amsterdam   | Engineering |  |
+| Optiver  | Amsterdam   | Engineering |  |
+| Uber  | Amsterdam,Sweden  | Engineering |  |
+|  Picnic | Amsterdam   | Engineering |  |
+| Flexport  | Amsterdam   | Engineering |  |
+| Reasearch Gate  | Germany   | Engineering |  |
+| HelloFresh | Germany   | Engineering |  |
+| Erricson | Sweden    | Engineering |  |
